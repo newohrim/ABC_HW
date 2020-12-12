@@ -1,0 +1,43 @@
+Talker 0: WAITING
+Talker 1: CALLING
+Talker 2: WAITING
+Talker 3: CALLING
+Talker 4: CALLING
+Talker 5: CALLING
+Talker 6: WAITING
+Talker 7: WAITING
+Talker 8: CALLING
+Talker 9: CALLING
+Talker 9: is calling 7.
+Talker 7: took a call from 9 for 3 seconds.
+Talker 3: is calling 7.
+Talker 4: is calling 7.
+Talker 5: is calling 2.
+Talker 2: took a call from 5 for 4 seconds.
+Talker 1: is calling 7.
+Talker 8: is calling 2.
+Talker 7: took a call from 3 for 2 seconds.
+Talker 9: is calling 7.
+Talker 5: is calling 0.
+Talker 0: took a call from 5 for 2 seconds.
+Talker 2: took a call from 8 for 4 seconds.
+Talker 3: is calling 7.
+Talker 7: took a call from 4 for 3 seconds.
+Talker 5: is now waiting for call...
+Talker 5: is out of balance.
+Talker 4: is calling 0.
+Talker 0: took a call from 4 for 3 seconds.
+Talker 7: took a call from 1 for 2 seconds.
+Talker 8: is calling 0.
+Talker 1: is calling 7.
+Talker 7: took a call from 3 for 2 seconds.
+Talker 4: is out of balance.
+Talker 0: took a call from 8 for 4 seconds.
+Talker 3: is out of balance.
+Talker 7: took a call from 1 for 2 seconds.
+Talker 1: is now waiting for call...
+Talker 1: is out of balance.
+Talker 7: took a call from 9 for 3 seconds.
+Talker 8: is now waiting for call...
+Talker 8: is out of balance.
+Talker 9: is out of balance.
